@@ -1,0 +1,4 @@
+(A*B|AC)D       AAAABD
+(A*B|AC)D       AAAAC
+(a|(bc)*d)* abcbcbcdaaaabcbcdaaaddd
+(a|b)*c         abababc

@@ -1,0 +1,4 @@
+abracadabra     abacadabrabracabracadabrabrabracad
+rab             abacadabrabracabracadabrabrabracad
+bcara           abacadabrabracabracadabrabrabracad
+abc             aaabbbaaabbb
