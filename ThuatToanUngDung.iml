@@ -4,38 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/10_LongestCommonSubstring" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/11_TrieSTForDocument" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/12_13_TSTForRate_Student" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/14_BTree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/15_KMP" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/16_NFA" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/17_GREP" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/18_RunLength_Go" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/19_RunLength_Back" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/1_VNAlphabet" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/20_BinaryDump" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/21_HuffmanASCII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/22_HuffmanUNICODE" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/23_LZW_ASCII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/24_LZW_UNICODE" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/25_BST" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/26_SegmentIntersection" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/27_KDTree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/28_IntervalST" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/29_RectangleIntersection" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/2_LSDForStudentId" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/30_KMP_VN_15char" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/31_KMP_VN_30char" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/32_KMP_Automaton" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/33_BoyerMoore" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/34_RabinKarp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/3_MSDForStudentNameASCII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/4_5_MSDForStudentNameUNICODE" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/6_Quick3StringForStudent" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/7_SuffixArrayVNText" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/8_KWIKVNText" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/9_LRSCodeCpp" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
