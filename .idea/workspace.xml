@@ -5,159 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04c65eaf-e311-48c8-87ee-ea1481605e06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/buoi4/_15_GREP/GREP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/4runs.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/BinaryIn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/BinaryOut.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/BinaryStdIn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/BinaryStdout.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Draw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Huongdan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/In.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Picture.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdArrayIO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdAudio.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdDraw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdIn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdOut.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdRandom.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/StdStats.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Stopwatch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/Students.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/Students.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/VNstudents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/VNstudents.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/ababLZW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/abra.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/abraLZW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/abra_restored.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/data1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/data1_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/data1_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/dulieu_nen.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/ex1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/ex2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/ex3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/ex4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/genomeTiny.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/genomeVirus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/kiemtra.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/kiemtra2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/lzw_output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/medTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/mediumEWG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/mediumUF.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/mobydick.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi2/mobydick.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/movies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/outputfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/pi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/q32x48.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/q64x96.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/query.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/run.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/shells.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/shellsST.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi2/tale.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/testB.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tiny.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyBatch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyDG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyFN.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyIn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/tinyL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyPQ.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyST.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyUF.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinyW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tinytinyTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/tobe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/words3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThuatToanUngDung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThuatToanUngDung.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BST/BST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BST/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BTree/BTree$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BTree/BTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BTree/BTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BinaryDump/BinaryDump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/BoyerMoore/BoyerMoore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/GREP/GREP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/HuffmanUNICODE/Huffman$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/HuffmanUNICODE/Huffman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/IST/Interval1D$LengthComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/IST/Interval1D$MaxEndpointComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/IST/Interval1D$MinEndpointComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/IST/Interval1D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/KDTree/KDTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/KDTree/KDTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/KMP/KMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/KMP/KMPfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/KWIKVN/KWIK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/LCS/LongestCommonSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/LRSCpp/LongestRepeatedSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/LSD/LSD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/LSD/LSDForStudentID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/LZW_ASCII/LZW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/MSD_ASCII/MSD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/MSD_ASCII/MSDForStudentNameASCII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/MSD_UNICODE/MSDForStudentNameUNICODE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/MSD_UNICODE/MSDUNICODE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/NFA/NFA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/Quick3String/Quick3string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/RL_BACK/RunLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/RL_BACK/RunLengthBit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/RL_GO/RunLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/RL_GO/RunLengthBit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/RabinKarp/RabinKarp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/SuffixArrayVN/SuffixArray$Suffix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/SuffixArrayVN/SuffixArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/SuffixArrayVN/SuffixArrayX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/TST/TST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/TST/TST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/TrieST/TrieST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/TrieST/TrieST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/VNAlphabet/VNAlphabet$VietnameseNameComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThuatToanUngDung/VNAlphabet/VNAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/10_LongestCommonSubstring/LongestCommonSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/11_TrieSTForDocument/TrieST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/12_13_TSTForRate_Student/TST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/14_BTree/BTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15_KMP/KMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15_KMP/KMPfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16_NFA/NFA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17_GREP/GREP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/18_RunLength_Go/RunLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/18_RunLength_Go/RunLengthBit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/19_RunLength_Back/RunLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/19_RunLength_Back/RunLengthBit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1_VNAlphabet/VNAlphabet/VNAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_1_VNAlphabet/VNAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20_BinaryDump/BinaryDump.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/22_HuffmanUNICODE/Huffman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/23_LZW_ASCII/LZW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/25_BST/BST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/27_KDTree/KDTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/28_IntervalST/Interval1D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2_LSDForStudentId/LSD/LSD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2_LSDForStudentId/LSD/LSDForStudentID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_2_LSD/LSDForStudentID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/33_BoyerMoore/BoyerMoore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/34_RabinKarp/RabinKarp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_MSDForStudentNameASCII/MSD_ASCII/MSD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_MSDForStudentNameASCII/MSD_ASCII/MSDForStudentNameASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_3_MSD_ASCII/MSDForStudentNameASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4_5_MSDForStudentNameUNICODE/MSD_UNICODE/MSDForStudentNameUNICODE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_4_MSD_UNICODE/MSDForStudentNameUNICODE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4_5_MSDForStudentNameUNICODE/MSD_UNICODE/MSDUNICODE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_4_MSD_UNICODE/MSDUNICODE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/6_Quick3StringForStudent/Quick3string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi2/_6_Quick3String/Quick3string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/7_SuffixArrayVNText/SuffixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi2/_7_SuffixArrayVN/SuffixArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/7_SuffixArrayVNText/SuffixArrayX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/8_KWIKVNText/KWIK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi2/_8_KWIKVN/KWIK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/9_LRSCodeCpp/LongestRepeatedSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi1/_4_MSD_UNICODE/MSDForStudentNameUNICODE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_4_5_MSD_UNICODE/MSDForStudentNameUNICODE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi1/_4_MSD_UNICODE/MSDUNICODE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi1/_4_5_MSD_UNICODE/MSDUNICODE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi4/_13_KMP/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/_13_14_KMP/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi4/_14_KMP_VN/KMPfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/_15_16_KMP_VN/KMPfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi4/_15_GREP/GREP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/_17_GREP/GREP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi4/_16_BoyerMoore/BoyerMoore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/_18_BoyerMoore/BoyerMoore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi4/_17_RabinKarp/RabinKarp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi4/_19_RabinKarp/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi5/_18_NFA/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi5/_20_NFA/Digraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi5/_18_NFA/DirectedDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi5/_20_NFA/DirectedDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi5/_18_NFA/NFA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi5/_20_NFA/NFA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi6/_19_BinaryDump/BinaryDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi6/_21_BinaryDump/BinaryDump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi6/_19_BinaryDump/BinaryIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi6/_21_BinaryDump/BinaryIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi6/_19_BinaryDump/BinaryOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi6/_21_BinaryDump/BinaryOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi6/_20_RunLength/RunLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi6/_22_23_RunLength/RunLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi6/files/compressed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi6/files/compressed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi7/_21_LongestRepeatedSubstring/LongestRepeatedSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi7/_24_LongestRepeatedSubstring/LongestRepeatedSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi7/_22_LongestCommonSubstring/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi7/_25_LongestCommonSubstring/LongestCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi8/huffman/_23_Huffman_UNICODE/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi8/huffman/_27_Huffman_UNICODE/Huffman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi8/huffman/_24_Huffman/HuffmanStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi8/huffman/_26_Huffman/HuffmanStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi8/lzw/_25_26_LZW/LZW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi8/lzw/_28_29_LZW/LZW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_30_BST/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/Interval1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_31_IntervalST/Interval1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/Interval2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_32_KDTree/Interval2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/IntervalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_31_IntervalST/IntervalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/KDTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_32_KDTree/KDTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_32_KDTree/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/RectangleIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_34_RectangleIntersection/RectangleIntersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buoi9/SegmentIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buoi9/_33_SegmentIntersection/SegmentIntersection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,12 +65,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AvgPoint.executor": "Run",
+    "Application.BST.executor": "Run",
     "Application.BTree.executor": "Run",
     "Application.BinaryDump.executor": "Run",
     "Application.BoyerMoore.executor": "Run",
     "Application.GREP.executor": "Run",
     "Application.Huffman.executor": "Run",
     "Application.HuffmanStudent.executor": "Run",
+    "Application.IntervalTree.executor": "Run",
     "Application.KMP.executor": "Run",
     "Application.KMPfile.executor": "Run",
     "Application.KWIC.executor": "Run",
@@ -214,6 +92,7 @@
     "Application.RunLength.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.SuffixArrayX.executor": "Run",
+    "Application.TestBST.executor": "Run",
     "Application.TrieST.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -245,11 +124,11 @@
   </component>
   <component name="RunManager">
     <configuration name="RunLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="buoi6._20_RunLength.RunLength" />
+      <option name="MAIN_CLASS_NAME" value="buoi6._22_23_RunLength.RunLength" />
       <module name="ThuatToanUngDung" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="buoi6._19_BinaryDump.*" />
+          <option name="PATTERN" value="buoi6._21_BinaryDump.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,6 +160,7 @@
       <workItem from="1765303170059" duration="1890000" />
       <workItem from="1765332216348" duration="7010000" />
       <workItem from="1765384866059" duration="3056000" />
+      <workItem from="1765422891581" duration="2842000" />
     </task>
     <servers />
   </component>
